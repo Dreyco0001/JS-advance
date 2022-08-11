@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "daemon": "^1.1.0"
+  },
+  "name": "js-advance",
+  "description": "el_tate_quieto_JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darv",
+  "license": "ISC"
+}
